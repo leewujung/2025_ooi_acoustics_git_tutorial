@@ -1,1 +1,4 @@
-# 2025_ooi_acoustics_git_tutorial
+# Git exercise repo
+
+Git exercise repo for the [2025 OOI Acoustics Summer School](https://ooifb.org/2025-ooifb-acoustics-summer-school/).
+
